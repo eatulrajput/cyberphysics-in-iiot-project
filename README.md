@@ -1,5 +1,5 @@
 # Project
-- Cyber Physics in Industrial IOT Group Project
+- Cyber Physics in Industrial IOT Group Project (3rd Semester)
 
 ## Requirements:
 - NodeMCU (ESP8266)
